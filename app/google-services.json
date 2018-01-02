@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1043898118794",
+    "firebase_url": "https://boris-37612.firebaseio.com",
+    "project_id": "boris-37612",
+    "storage_bucket": "boris-37612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043898118794:android:b2def31ac3c8f7fb",
+        "android_client_info": {
+          "package_name": "com.example.user.boris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043898118794-os92vrdnrfrv95ujje3i4hf5b82ho8s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.boris",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "1043898118794-arvsksvcem4of6t9jbsdkchorfon5p3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQouagRfWCilS4zYfAFsoAe5cvBpQf0ZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043898118794-arvsksvcem4of6t9jbsdkchorfon5p3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
